@@ -5,6 +5,7 @@ public class Conflict {
     // This is master branch content
     // this is collection branch content
     // I can type anything i want here
-    //this is the change collection2 branch does not know about
+    // THIS IS THE CUSTOM OUTPUT FROM MY MERGE RESOLVING MERGE CONFLICT
+    // GOOD JOB EVERYONE
 
 }
