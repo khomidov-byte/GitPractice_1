@@ -5,6 +5,6 @@ public class Conflict {
     // This is master branch content
     // this is collection branch content
     // I can type anything i want here
-    // more work on collection 2
+    // more work on collection 2 is done
 
 }
