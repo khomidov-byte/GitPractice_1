@@ -7,4 +7,5 @@ public class Conflict {
     // I can type anything i want here
     // more work on collection 2 is done
 
+
 }
